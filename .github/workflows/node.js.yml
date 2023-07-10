@@ -25,7 +25,7 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm i --prefix web_v1/package.json
-    - run: npm run build --prefix web_v1/package.json
+    - run: npm i --prefix web_v1
+    - run: npm run build --prefix web_v1
     
 
