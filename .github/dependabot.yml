@@ -9,3 +9,8 @@ updates:
     directory: "backendcloud_v1/" # Location of package manifests
     schedule:
       interval: "daily"
+
+  - package-ecosystem: "npm" 
+    directory: "web_v1/" 
+    schedule:
+      interval: "daily"
