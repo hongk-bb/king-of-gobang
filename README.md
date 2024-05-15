@@ -28,5 +28,5 @@
 ### 个人中心
 ![个人中心](https://github.com/hongk-bb/king-of-gobang/assets/110291262/760d0ef2-24c5-4e37-a063-b4eab093b87b)
 ![创建Bot](https://github.com/hongk-bb/king-of-gobang/assets/110291262/1ba3759e-a3e6-4637-8e70-e1d026121a4b)
-这里提示一下, 创建Bot需要按照这种格式, 但Bot示例代码还未修改过来, 如有需要请参考后端代码运行部分来编写
+这里提示一下, 创建Bot需要按照这种格式, 但Bot示例代码还未修改过来, 如有需要请参考new_example_demo.java
 
